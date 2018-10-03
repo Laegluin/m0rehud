@@ -381,7 +381,7 @@
 		
 		"fgcolor"									"255 255 255 255"
 		"labelText"									"o"
-		"font"										"size: 22, outline: off"
+		"font"										"size: 11, outline: off"
 		
 		"controlName"								"CExLabel"
 		"fieldName"									"hitmarker"
