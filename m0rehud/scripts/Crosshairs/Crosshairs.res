@@ -170,21 +170,21 @@
 		"zpos"										"1"
 	}
 	
-	"Hollow Cross"
+	"t_with_dot"
 	{
-		"visible"									"0"
+		"visible"									"1"
 		
 		"xpos"										"c-25"
 		"ypos"										"c-25"
 		"wide"										"50"
 		"tall"										"50"
 		
-		"fgcolor"									"255 255 255 255"
+		"fgcolor"									"0 255 0 255"
 		"labelText"									"b"
 		"font"										"size: 18, outline: on"
 		
 		"controlName"								"CExLabel"
-		"fieldName"									"Hollow Cross"
+		"fieldName"									"t_with_dot"
 		"textAlignment"								"center"
 		"enabled"									"1"
 		"zpos"										"1"
@@ -370,9 +370,9 @@
 		"zpos"										"1"
 	}
 	
-	"Round Brackets"
+	"hitmarker"
 	{
-		"visible"									"0"
+		"visible"									"1"
 		
 		"xpos"										"c-25"
 		"ypos"										"c-25"
@@ -384,7 +384,7 @@
 		"font"										"size: 22, outline: off"
 		
 		"controlName"								"CExLabel"
-		"fieldName"									"Round Brackets"
+		"fieldName"									"hitmarker"
 		"textAlignment"								"center"
 		"enabled"									"1"
 		"zpos"										"1"
