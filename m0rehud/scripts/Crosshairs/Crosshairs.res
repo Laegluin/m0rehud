@@ -379,7 +379,7 @@
 		"wide"										"50"
 		"tall"										"50"
 		
-		"fgcolor"									"255 255 255 255"
+		"fgcolor"									"255 255 255 0"
 		"labelText"									"o"
 		"font"										"size: 11, outline: off"
 		
